@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thesaurus/static/css/main.8290dee6.css",
+    "main.js": "/thesaurus/static/js/main.e53c3d30.js",
+    "static/js/787.858cdba3.chunk.js": "/thesaurus/static/js/787.858cdba3.chunk.js",
+    "index.html": "/thesaurus/index.html",
+    "main.8290dee6.css.map": "/thesaurus/static/css/main.8290dee6.css.map",
+    "main.e53c3d30.js.map": "/thesaurus/static/js/main.e53c3d30.js.map",
+    "787.858cdba3.chunk.js.map": "/thesaurus/static/js/787.858cdba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8290dee6.css",
+    "static/js/main.e53c3d30.js"
+  ]
+}
